@@ -1,0 +1,3 @@
+Fred             30
+Charlotte            200
+James             70

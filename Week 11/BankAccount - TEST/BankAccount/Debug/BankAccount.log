@@ -1,0 +1,10 @@
+﻿  BaseAccount.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 11\BankAccount - TEST\BankAccount\BaseAccount.h(27,1): error C2143:  syntax error: missing ';' before '}'
+  JuniorAccount.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 11\BankAccount - TEST\BankAccount\BaseAccount.cpp(22,20): error C2512:  'AccountDetails::AccountDetails': no appropriate default constructor available
+  Main.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 11\BankAccount - TEST\BankAccount\BaseAccount.h(27,1): error C2143:  syntax error: missing ';' before '}'
+  SavingsAccount.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 11\BankAccount - TEST\BankAccount\BaseAccount.h(27,1): error C2143:  syntax error: missing ';' before '}'
+  Generating Code...
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 11\BankAccount - TEST\BankAccount\BaseAccount.h(27,1): error C2143:  syntax error: missing ';' before '}'

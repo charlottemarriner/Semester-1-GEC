@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 2\Chapter8_Area of a Circle\Area of a Circle\Source.cpp(7,23): warning C4305:  'initializing': truncation from 'double' to 'float'
+  Area of a Circle.vcxproj -> C:\Users\Charlotte\OneDrive - Staffordshire University\Year 1\Games Engine Creation\Week 2\Chapter8_Area of a Circle\Debug\Area of a Circle.exe
